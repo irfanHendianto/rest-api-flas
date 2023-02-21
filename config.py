@@ -1,3 +1,3 @@
 class Config:
-    DEBUG = False
+    DEBUG = True
     PORT = 3000
